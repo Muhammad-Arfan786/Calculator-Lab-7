@@ -31,3 +31,5 @@ substruction
  Adition
     return 0;
 }
+cout << "This is conflict_branch2" << endl;
+
