@@ -31,5 +31,9 @@ substruction
  Adition
     return 0;
 }
+Conflict-branch-2
+cout << "This is conflict_branch2" << endl;
+
 cout << "This is conflict_branch1" << endl;
+ main
 
